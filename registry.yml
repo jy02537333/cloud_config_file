@@ -2,8 +2,8 @@ security:
   basic:
     enabled: true
   user:
-    name: jky
-    password: GJKtime123
+    name: root
+    password: Gs963852
 
 server:
   port: 18761
