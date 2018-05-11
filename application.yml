@@ -4,7 +4,7 @@ spring:
     url: jdbc:mysql://192.168.3.102:3306/projectsoftdb?useUnicode=true&characterEncoding=utf8&autoReconnect=true&failOverReadOnly=false
     username: root
  #   password: GZzxtVS123jky2017
-    password: Gs963852
+    password: gs963852
     driver-class-name: com.mysql.jdbc.Driver
     tomcat:
       initial-size: 5

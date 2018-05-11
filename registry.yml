@@ -3,7 +3,7 @@ security:
     enabled: true
   user:
     name: root
-    password: Gs963852
+    password: gs963852
 
 server:
   port: 18761
